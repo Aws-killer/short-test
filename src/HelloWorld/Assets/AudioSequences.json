@@ -1,0 +1,38 @@
+[
+	{
+		"name": "audio_1.mp3",
+		"props": {"startFrom": 0, "endAt": 9557.999999999998, "duration": 10.62},
+		"start": 0,
+		"end": 10.62,
+		"duration": 77,
+		"type": "audio"
+	},
+	{
+		"name": "audio_1.mp3",
+		"props": {"startFrom": 48.6, "endAt": 2261.3999999999996, "duration": 77},
+		"start": 3.62,
+		"end": 7.24,
+		"duration": 77,
+		"type": "audio"
+	},
+	{
+		"name": "audio_1.mp3",
+		"props": {"startFrom": 0, "endAt": 9557.999999999998, "duration": 10.62},
+		"start": 0,
+		"end": 10.62,
+		"duration": 77,
+		"type": "audio"
+	},
+	{
+		"name": "audio_1.mp3",
+		"props": {
+			"startFrom": 318.59999999999997,
+			"endAt": 1991.3999999999999,
+			"duration": 1.62
+		},
+		"start": 12.62,
+		"end": 25.24,
+		"duration": 77,
+		"type": "audio"
+	}
+]

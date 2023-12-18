@@ -1,0 +1,18 @@
+[
+	{
+		"type": "broll",
+		"name": "broll_1.mp4",
+		"props": {"startFrom": 0, "endAt": 60, "duration": 2},
+		"start": 1.62,
+		"end": 3.62,
+		"duration": 2
+	},
+	{
+		"type": "broll",
+		"name": "broll_1.mp4",
+		"props": {"startFrom": 0, "endAt": 60, "duration": 2},
+		"start": 10.62,
+		"end": 12.62,
+		"duration": 2
+	}
+]
